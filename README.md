@@ -1,17 +1,14 @@
-## Getting Started
+Orientação
 
-Welcome to the VS Code Java world. Here is a guideline to help you get started to write Java code in Visual Studio Code.
+Projeto realizado como desenvolvimento de padrões de projeto Java, ofertado e instruido pela plataforma Digital Innovatio One
+através do orientador Venilton Falvo Jr.
 
-## Folder Structure
 
-The workspace contains two folders by default, where:
+Repositório com as implementações dos padrões de projeto explorados no Lab "Explorando Padrões de Projetos na Prática com Java". Especificamente, este projeto explorou alguns padrões usando Java puro:
 
-- `src`: the folder to maintain sources
-- `lib`: the folder to maintain dependencies
-
-Meanwhile, the compiled output files will be generated in the `bin` folder by default.
-
-> If you want to customize the folder structure, open `.vscode/settings.json` and update the related settings there.
+Singleton
+Strategy
+Facade
 
 ## Dependency Management
 
